@@ -1,6 +1,8 @@
 	body{
 	overflow-x: hidden;
 	background-color: silver;
+	margin: 0;
+	padding: 0;	
 	}
 	.container2{
 		background-color:  #ffdd99;
